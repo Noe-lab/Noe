@@ -1,0 +1,13 @@
+<html>
+	<head>
+	<meta name="Noé" content="Volckaert"/>
+	<link href="Styles.css" rel="stylesheet" type="Styles.css">
+	<title>Lobby</title>
+	</head>
+	<body><body background="Op2.jpg" text="black">
+		<p>
+			<h1 align="center"><font size=10 face=Arial>Lobby</h1>
+			<a id="url" href="mepb" target="_blank">Mise en page 1<sup>er</sup></a>
+		</p>
+	</body>
+</html>
