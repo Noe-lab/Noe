@@ -1,0 +1,20 @@
+<html>
+	<head>
+	<meta name="Noé" content="Volckaert"/>
+	<title>Merci Cam<3 </title>
+	</head>
+	<body bgcolor="blue" text="white">
+		<p>
+			<h1 align="center"> PREMIERE PARTIE </h1>
+			<br> <font color="red">Je suis le premier paragraphe, je suis rouge...
+			<br><hr size="2" color="red">
+			<h2 align="center"><font color="white"> DEUXIEME PARTIE </h2></p>
+			<p align="center"><font size="5"><font color="yellow"><i> Je suis le 2<sup>ème</sup> paragraphe</i><br>
+			<b>au centre<b><br>
+			<u><font size="5">en taille 5 et en jaune</u><br>
+			<hr width="300" color="black" size="7">
+			<p align="center"><font color="white"> TROISIEME PARTIE </p>
+			<p align="right" ><font face="Arial" size="7"> Je suis le dernier paragraphe, je suis en taille 7 avec la police Arial et à droite </p>
+		</p>
+	</body>
+</html>
